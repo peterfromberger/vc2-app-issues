@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Etwas im programm funktioniert nicht
+about: Etwas im Programm funktioniert nicht
 title: FEHLER
 labels: bug
 assignees: peterfromberger
