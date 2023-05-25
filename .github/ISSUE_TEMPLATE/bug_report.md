@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Etwas im programm funktioniert nicht
 title: FEHLER
 labels: bug
 assignees: peterfromberger
