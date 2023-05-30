@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Ich wünsche mir eine Änderung im Programm
+about: Ich habe eine Idee, wie das Programm besser werden kann.
 title: ''
 labels: ''
 assignees: ''
