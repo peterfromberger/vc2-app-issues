@@ -7,21 +7,24 @@ assignees: peterfromberger
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreibe den Fehler**
+Eine klare, nachvollziehbare Beschreibung des Fehlers.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Welche Schritte sind notwendig, um den Fehler zu reproduzieren?**
+Schritte um den Fehler zu reproduzieren:
+1. Gehe zu '...'
+2. Klicke auf '....'
+3. Scroll down bis '....'
+4. Fehler erscheint
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Welches Verhalten der App wird erwartet?**
+Eine klare und nachvollziehbare Beschreibung, welches Verhalten der App erwartet wird.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Wenn möglich, bitte Screenshots des Fehlers einfügen.
 
-**Additional context**
-Add any other context about the problem here.
+**Logfiles**
+Bitte laden sie immer die entsprechenden Logfiles mit hoch. Diese können in der App geöffnet werden.
+
+**Zusätzliche Hinweise**
+Zusätzliche Hinweise, die den Fehler besser nachvollziehbar machen.
