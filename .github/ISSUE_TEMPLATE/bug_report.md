@@ -23,8 +23,5 @@ Eine klare und nachvollziehbare Beschreibung, welches Verhalten der App erwartet
 **Screenshots**
 Wenn möglich, bitte Screenshots des Fehlers einfügen.
 
-**Logfiles**
-Bitte laden sie immer die entsprechenden Logfiles mit hoch. Diese können in der App geöffnet werden.
-
 **Zusätzliche Hinweise**
 Zusätzliche Hinweise, die den Fehler besser nachvollziehbar machen.
