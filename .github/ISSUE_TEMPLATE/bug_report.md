@@ -10,6 +10,11 @@ assignees: peterfromberger
 **Beschreibe den Fehler**
 Eine klare, nachvollziehbare Beschreibung des Fehlers.
 
+**Welches Setup?**
+1. Welche Trainee-ID: '...'
+2. Welcher Messzeitpunkt: '...'
+3. Welches virtuelle Kind: '...'
+
 **Welche Schritte sind notwendig, um den Fehler zu reproduzieren?**
 Schritte um den Fehler zu reproduzieren:
 1. Gehe zu '...'
@@ -21,7 +26,7 @@ Schritte um den Fehler zu reproduzieren:
 Eine klare und nachvollziehbare Beschreibung, welches Verhalten der App erwartet wird.
 
 **Screenshots**
-Wenn möglich, bitte Screenshots des Fehlers einfügen.
+Bitte Screenshots des Fehlers einfügen.
 
 **Zusätzliche Hinweise**
 Zusätzliche Hinweise, die den Fehler besser nachvollziehbar machen.
