@@ -14,7 +14,8 @@ Eine klare, nachvollziehbare Beschreibung des Fehlers.
 1. Welche Trainee-ID: '...'
 2. Welcher Messzeitpunkt: '...'
 3. Welches virtuelle Kind: '...'
-4. VC1 oder VC2?
+4. 3. Welches Ereignis: '...'
+5. VC1 oder VC2?
 
 **Welche Schritte sind notwendig, um den Fehler zu reproduzieren?**
 Schritte um den Fehler zu reproduzieren:
