@@ -9,7 +9,7 @@ Hier können Fehler im Zusammenhang mit der ViContact App gemeldet werden.
 - Oftmals sind Nachfragen zu einem fehler notwendig. Wenn Sie als Assignee gekennzeichnet sind, erhalten sie alle Fragen und Antworten automatisch per Email
 
 # Allgemeine Hinweise zur Installation und Nutzung der ViContact App
-- Die ViContact App installiert selbstständig alle notwendigen Softwareelemente, jedoch NICHT die notwendigen Treiber für das VR-Headset (dadurch ist es möglich, die App mit unterschiedlichen VR-headsets zu nutzen)
+- Die ViContact App installiert selbstständig alle notwendigen Softwareelemente, jedoch NICHT die notwendigen Treiber für das VR-Headset (dadurch ist es möglich, die App mit unterschiedlichen VR-Headsets zu nutzen)
 - Die ViContact App unterstützt ausschließlich VR-Headsets, die mit SteamVR kompatibel sind (u. a. HTC Vive Pro 2).
 - Bitte folgen Sie daher zunächst den Anweisungen im Benutzerhandbuch ihres VR-Headsets zur Installation und Einrichtung der Hardware
 - <b>Steam</b> und <b>SteamVR</b> muss auf ihrem Rechner installiert sein, bevor sie ein Training durchführen können. Bitte folgen Sie dazu den entsprechenden Hinweisen in den Anweisungen zu ihrer VR-Hardware und hier:<a href="https://www.steamvr.com/de/" target="_blank"> Steam und/oder SteamVR installieren</a>
@@ -19,6 +19,8 @@ Hier können Fehler im Zusammenhang mit der ViContact App gemeldet werden.
 
 # Wichtiger Hinweis zur Nutzung der App
 Es wird ein VR-Controller benötigt. Mit welcher Hand dieser benutzt wird ist unerheblich. <b>Um mit einem vKind zu sprechen, müssen Sie die sog. Trigger-Taste gedrückt halten solange sie sprechen.</b> Beim Controller für die HTC Vive Pro ist das die Taste mit der Nummer 7 im folgenden Bild:
+
+![plot](./TastenController.webp)
 
 
 
