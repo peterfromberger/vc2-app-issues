@@ -1,7 +1,13 @@
 # vc2-app-issues
 
 ## Allgemeine Hinweise zum Erstellen von Fehlermeldungen
-Hier können Fehler im Zusammenhang mit der ViContact App gemeldet werden. 
+Hier können Fehler im Zusammenhang mit der ViContact App gemeldet werden. Klicken Sie dazu zunächst auf das Issues-Tap:
+
+![plot](./Issues.png)
+
+Und erstellen sie dann einen neuen Issue:
+
+![plot](./NewIssue.png)
 
 - Bitte nutzen Sie die entsprechenden Templates. Es wird grundlegend unterschieden zwischen Fehlern (im Programm funktioniert etwas nicht so wie es sollte/abgesprochen war) oder wünschenswerte Verbesserungen (die allerdings nicht notwendig sind um die App und ihre Funktionen zu nutzen).
 - Bitte geben Sie ALLE im template geforderten Angaben an, sonst kann der Fehler nicht bearbeitet werden
