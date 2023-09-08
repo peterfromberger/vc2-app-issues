@@ -5,6 +5,8 @@
 - VR-fähige Grafikkarte
 - SteamVR-kompatibles VR-Headset
 
+Die App benötigt relativ viele Ressourcen, so dass idealerweise keine anderen Programme auf dem Rechner geöffnet sein sollten während man ein Training durchführt. Es ist kein Internetanschluss notwendig.
+
 ## Allgemeine Hinweise zur Installation und Nutzung der ViContact App
 - Die ViContact App installiert selbstständig alle notwendigen Softwareelemente, jedoch NICHT die notwendigen Treiber für das VR-Headset (dadurch ist es möglich, die App mit unterschiedlichen VR-Headsets zu nutzen)
 - Die ViContact App unterstützt ausschließlich VR-Headsets, die mit SteamVR kompatibel sind (u. a. HTC Vive Pro 2).
