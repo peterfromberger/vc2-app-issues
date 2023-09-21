@@ -8,6 +8,7 @@ assignees: peterfromberger
 ---
 
 **Beschreibe den Fehler**
+
 Eine klare, nachvollziehbare Beschreibung des Fehlers.
 
 **Welches Setup?**
@@ -16,19 +17,25 @@ Eine klare, nachvollziehbare Beschreibung des Fehlers.
 3. Welches virtuelle Kind: '...'
 4. 3. Welches Ereignis: '...'
 5. VC1 oder VC2?
+6. Windows 11
+7. Frische Installation des OS oder seit längerem genutzter PC/Laptop?
 
 **Welche Schritte sind notwendig, um den Fehler zu reproduzieren?**
-Schritte um den Fehler zu reproduzieren:
+
+Schritte um den Fehler zu reproduzieren, zum Beispiel:
 1. Gehe zu '...'
 2. Klicke auf '....'
 3. Scroll down bis '....'
 4. Fehler erscheint
 
 **Welches Verhalten der App wird erwartet?**
+
 Eine klare und nachvollziehbare Beschreibung, welches Verhalten der App erwartet wird.
 
 **Screenshots**
-Bitte Screenshots des Fehlers einfügen.
+
+Bitte <b>immer</b> einen (oder mehrere) Screenshot(s) des Fehlers einfügen.
 
 **Zusätzliche Hinweise**
+
 Zusätzliche Hinweise, die den Fehler besser nachvollziehbar machen.
